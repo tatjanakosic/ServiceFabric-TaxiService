@@ -1,0 +1,5 @@
+C:\Users\nikol\Desktop\Veb\VideoFollow2\Stateful1\obj\Debug\net8.0\win-x64\ProductCatalogue.csproj.AssemblyReference.cache
+C:\Users\nikol\Desktop\Veb\VideoFollow2\Stateful1\obj\Debug\net8.0\win-x64\ProductCatalogue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Desktop\Veb\VideoFollow2\Stateful1\obj\Debug\net8.0\win-x64\ProductCatalogue.AssemblyInfoInputs.cache
+C:\Users\nikol\Desktop\Veb\VideoFollow2\Stateful1\obj\Debug\net8.0\win-x64\ProductCatalogue.AssemblyInfo.cs
+C:\Users\nikol\Desktop\Veb\VideoFollow2\Stateful1\obj\Debug\net8.0\win-x64\ProductCatalogue.csproj.CoreCompileInputs.cache

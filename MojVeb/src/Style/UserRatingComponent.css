@@ -1,0 +1,56 @@
+/* Container Styling */
+.user-rating-component {
+  max-width: 800px;
+  margin: 100px auto;
+  padding: 60px;
+  background-color: #fff;
+  border: 3px solid #4caf50;
+  border-radius: 40px;
+  box-shadow: 0 20px 50px rgba(76, 175, 80, 0.3);
+  text-align: center;
+}
+
+/* Title Styling */
+.user-rating-component h1,
+.user-rating-component h2 {
+  color: #004d40;
+}
+
+/* Rating Input Container Styling */
+.rating-input {
+  margin: 20px 0;
+}
+
+/* Rating Input Styling */
+.rating-input input {
+  width: 50px;
+  padding: 10px;
+  font-size: 18px;
+  text-align: center;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+/* Rating Input Focus Styling */
+.rating-input input:focus {
+  border-color: #007bff;
+  outline: none;
+}
+
+/* Button Styling */
+.user-rating-component button {
+  width: 100%;
+  padding: 10px;
+  background-color: #007bff;
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  color: white;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+/* Button Hover Styling */
+.user-rating-component button:hover {
+  background-color: #0056b3;
+}

@@ -1,0 +1,91 @@
+/* Importing Font */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+
+/* Container Styling */
+.start-component {
+  max-width: 800px;  /* Significantly increased the max-width for a larger frame */
+  margin: 100px auto;  /* Adjusted the margin for better centering */
+  padding: 60px;  /* Increased padding for more space inside the container */
+  border: 3px solid #4caf50;  /* Updated border to be more prominent */
+  border-radius: 40px;  /* Increased border-radius for a modern, rounded frame */
+  box-shadow: 0 20px 50px rgba(76, 175, 80, 0.3);  /* Enhanced the shadow for better depth */
+  background: linear-gradient(to right, #b2f7ef, #fcbf1e);
+  font-family: 'Lato', sans-serif;
+}
+
+/* Title Styling */
+.start-component h1 {
+  text-align: center;
+  color: #004d40;
+  font-size: 36px;  /* Significantly increased font size for better emphasis */
+  margin-bottom: 50px;  /* Increased margin-bottom for more space below the title */
+  font-family: 'Lato', sans-serif;
+}
+
+/* Form Styling */
+.start-component form {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Form Element Styling */
+.start-component form div {
+  margin-bottom: 30px;  /* Increased margin-bottom for more space between form elements */
+}
+
+/* Label Styling */
+.start-component form label {
+  margin-bottom: 12px;  /* Slightly increased margin-bottom for better spacing */
+  color: #00796b;
+  font-size: 20px;  /* Increased font size for better readability */
+}
+
+/* Input Styling */
+.start-component form input {
+  padding: 15px;  /* Adjusted padding for slightly smaller input fields */
+  border: 3px solid #009688;  /* Increased border thickness for better visibility */
+  border-radius: 15px;  /* Increased border-radius for a softer look */
+  font-size: 16px;  /* Decreased font size for slightly smaller text */
+  transition: border-color 0.3s, box-shadow 0.3s;
+  background-color: #e0f2f1;
+}
+
+/* Input Focus Styling */
+.start-component form input:focus {
+  border-color: #004d40;
+  box-shadow: 0 0 20px rgba(0, 77, 64, 0.3);  /* Enhanced the box-shadow for better focus indication */
+  outline: none;
+}
+
+/* Common Button Styling */
+.start-component button,
+.start-component button + button {
+  padding: 20px;  /* Increased padding for larger buttons */
+  background-color: #26a69a;
+  color: #ffffff;
+  border: none;
+  border-radius: 30px;  /* Increased border-radius for a modern look */
+  font-size: 20px;  /* Increased font size for better readability */
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.3s;
+  margin-top: 25px;  /* Increased margin-top for more space above the button */
+  width: 100%;
+  box-sizing: border-box;
+}
+
+/* Button Hover Styling */
+.start-component button:hover,
+.start-component button + button:hover {
+  background-color: #00796b;
+  transform: scale(1.05);
+}
+
+/* Toggle Button Styling */
+.start-component button + button {
+  background-color: #80cbc4;
+  margin-top: 25px;  /* Increased margin-top for better spacing between buttons */
+}
+
+.start-component button + button:hover {
+  background-color: #26a69a;
+}

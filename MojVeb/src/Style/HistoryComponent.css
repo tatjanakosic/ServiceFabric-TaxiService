@@ -1,0 +1,67 @@
+/* Importing Font */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+
+/* Container Styling */
+.history-component {
+  max-width: 800px;
+  margin: 100px auto;
+  padding: 60px;
+  border: 3px solid #4caf50;
+  border-radius: 40px;
+  box-shadow: 0 20px 50px rgba(76, 175, 80, 0.3);
+  background: linear-gradient(to right, #b2f7ef, #fcbf1e);
+  font-family: 'Lato', sans-serif;
+}
+
+/* Title Styling */
+.history-component h2 {
+  text-align: center;
+  color: #004d40;
+  font-size: 36px;
+}
+
+/* Button Styling */
+.history-component button {
+  padding: 20px;
+  background-color: #26a69a;
+  color: #ffffff;
+  border: none;
+  border-radius: 30px;
+  font-size: 20px;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.3s;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+/* Button Hover Styling */
+.history-component button:hover {
+  background-color: #00796b;
+  transform: scale(1.05);
+}
+
+/* Table Styling */
+.history-component table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+/* Table Header Styling */
+.history-component th {
+  background-color: #26a69a;
+  color: #ffffff;
+  padding: 10px;
+  text-align: left;
+}
+
+/* Table Data Styling */
+.history-component td {
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+}
+
+/* Alternating Row Color */
+.history-component tr:nth-child(even) {
+  background-color: #f2f2f2;
+}

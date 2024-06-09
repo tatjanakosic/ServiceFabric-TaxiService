@@ -1,0 +1,31 @@
+/* Container Styling */
+.user-countdown-component {
+  max-width: 800px;
+  margin: 100px auto;
+  padding: 60px;
+  border: 3px solid #4caf50;
+  border-radius: 40px;
+  box-shadow: 0 20px 50px rgba(76, 175, 80, 0.3);
+  background: linear-gradient(to right, #b2f7ef, #fcbf1e);
+  font-family: 'Lato', sans-serif;
+}
+
+/* Title Styling */
+.user-countdown-component h1 {
+  text-align: center;
+  color: #004d40;
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+/* Countdown Timers Container Styling */
+.countdown-timers > div {
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+/* Countdown Timers Title Styling */
+.countdown-timers h2 {
+  font-weight: bold;
+  color: #333;
+}

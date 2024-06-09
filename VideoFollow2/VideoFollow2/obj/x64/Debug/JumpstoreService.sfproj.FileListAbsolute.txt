@@ -1,0 +1,3 @@
+C:\Users\nikol\Desktop\Veb\VideoFollow2\VideoFollow2\obj\x64\Debug\JumpstoreService.sfproj.CoreCompileInputs.cache
+C:\Users\nikol\Desktop\VideoFollow2\VideoFollow2\obj\x64\Debug\JumpstoreService.sfproj.CoreCompileInputs.cache
+C:\Users\nikol\Desktop\WebFinal\VideoFollow2\VideoFollow2\obj\x64\Debug\JumpstoreService.sfproj.CoreCompileInputs.cache

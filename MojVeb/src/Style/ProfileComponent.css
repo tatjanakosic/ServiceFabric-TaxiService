@@ -1,0 +1,69 @@
+/* Importing Font */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+
+/* Container Styling */
+.profile-component {
+  max-width: 800px;
+  margin: 100px auto;
+  padding: 60px;
+  background-color: #fff;
+  border: 3px solid #4caf50;
+  border-radius: 40px;
+  box-shadow: 0 20px 50px rgba(76, 175, 80, 0.3);
+  font-family: 'Lato', sans-serif;
+}
+
+/* Title Styling */
+.profile-component h2 {
+  text-align: center;
+  color: #004d40;
+  font-size: 36px;
+  margin-top: 20px;
+}
+
+/* Profile Info Styling */
+.profile-info > div {
+  margin-bottom: 15px;
+}
+
+/* Label Styling */
+.profile-info strong {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+  color: #333;
+}
+
+/* Input Styling */
+.profile-info input[type="text"],
+.profile-info input[type="date"] {
+  width: calc(100% - 22px);
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+/* Input Focus Styling */
+.profile-info input[type="text"]:focus,
+.profile-info input[type="date"]:focus {
+  border-color: #007bff;
+  outline: none;
+}
+
+/* Button Styling */
+.profile-info button {
+  width: 100%;
+  padding: 10px;
+  background-color: #007bff;
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  color: white;
+  cursor: pointer;
+}
+
+/* Button Hover Styling */
+.profile-info button:hover {
+  background-color: #0056b3;
+}

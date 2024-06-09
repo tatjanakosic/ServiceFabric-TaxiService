@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "ThXXreR4Jdanrt6KxAqLyOg3Ef99Bc6hxcaEyZ/eqhmZgPfT3483Yj7xP4oJN7WLK3dJo25ArqVVdXzGZ8PBVA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nikol\\Desktop\\Veb\\VideoFollow2\\Stateful1\\ProductCatalogue.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikol\\.nuget\\packages\\microsoft.servicefabric\\10.1.1951\\microsoft.servicefabric.10.1.1951.nupkg.sha512",
+    "C:\\Users\\nikol\\.nuget\\packages\\microsoft.servicefabric.data\\7.1.1951\\microsoft.servicefabric.data.7.1.1951.nupkg.sha512",
+    "C:\\Users\\nikol\\.nuget\\packages\\microsoft.servicefabric.data.extensions\\7.1.1951\\microsoft.servicefabric.data.extensions.7.1.1951.nupkg.sha512",
+    "C:\\Users\\nikol\\.nuget\\packages\\microsoft.servicefabric.data.interfaces\\7.1.1951\\microsoft.servicefabric.data.interfaces.7.1.1951.nupkg.sha512",
+    "C:\\Users\\nikol\\.nuget\\packages\\microsoft.servicefabric.diagnostics.internal\\7.1.1951\\microsoft.servicefabric.diagnostics.internal.7.1.1951.nupkg.sha512",
+    "C:\\Users\\nikol\\.nuget\\packages\\microsoft.servicefabric.fabrictransport.internal\\7.1.1951\\microsoft.servicefabric.fabrictransport.internal.7.1.1951.nupkg.sha512",
+    "C:\\Users\\nikol\\.nuget\\packages\\microsoft.servicefabric.services\\7.1.1951\\microsoft.servicefabric.services.7.1.1951.nupkg.sha512",
+    "C:\\Users\\nikol\\.nuget\\packages\\microsoft.servicefabric.services.remoting\\7.1.1951\\microsoft.servicefabric.services.remoting.7.1.1951.nupkg.sha512",
+    "C:\\Users\\nikol\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\nikol\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.0\\microsoft.aspnetcore.app.runtime.win-x64.8.0.0.nupkg.sha512",
+    "C:\\Users\\nikol\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.0\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.0.nupkg.sha512",
+    "C:\\Users\\nikol\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.0\\microsoft.netcore.app.runtime.win-x64.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
